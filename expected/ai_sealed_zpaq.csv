@@ -1,0 +1,8 @@
+split,category,file,bytes,codec,comp_bytes,ctime_s,dtime_s,ok
+sealed,ai,wildchat_00.jsonl,10010537,zpaq-m5,1178161,15.6931,16.5187,1
+sealed,ai,wildchat_01.jsonl,10017364,zpaq-m5,1132037,15.7367,16.6559,1
+sealed,ai,wildchat_02.jsonl,10000060,zpaq-m5,1166127,15.5925,16.523,1
+sealed,ai,wildchat_05.jsonl,10005588,zpaq-m5,1140276,15.6033,16.7471,1
+sealed,ai,wildchat_07.jsonl,10008911,zpaq-m5,1186351,16.0693,16.5223,1
+sealed,ai,wildchat_12.jsonl,10008825,zpaq-m5,1183775,14.8169,15.892,1
+sealed,ai,wildchat_13.jsonl,10023449,zpaq-m5,1169153,14.9639,15.8558,1

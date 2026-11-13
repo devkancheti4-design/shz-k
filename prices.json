@@ -1,0 +1,7 @@
+{
+  "_what": "Your prices. Every cost verdict in report.md is recomputed from these. Defaults: a typical cloud on-demand CPU core and standard object storage.",
+  "cpu_usd_per_core_hour": 0.05,
+  "storage_usd_per_gb_month": 0.023,
+  "retention_months": [1, 12, 36],
+  "reads_per_month": 0
+}

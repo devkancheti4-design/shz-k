@@ -1,0 +1,7 @@
+split,category,file,bytes,codec,comp_bytes,ctime_s,dtime_s,ok
+sealed,logprobs,logprobs_00.jsonl,10022413,parquet-zstd3,1275117,0.628,0.5254,1
+sealed,logprobs,logprobs_00.jsonl,10022413,parquet-zstd19,1172317,0.3019,0.4884,1
+sealed,logprobs,logprobs_00.jsonl,10022413,parquet-zstd19-bss,863193,1.5775,0.4954,1
+sealed,logprobs,logprobs_01.jsonl,10006996,parquet-zstd3,1193591,0.2033,0.4959,1
+sealed,logprobs,logprobs_01.jsonl,10006996,parquet-zstd19,1103352,0.3186,0.4878,1
+sealed,logprobs,logprobs_01.jsonl,10006996,parquet-zstd19-bss,860156,1.5476,0.506,1

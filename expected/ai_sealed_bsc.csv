@@ -1,0 +1,15 @@
+split,category,file,bytes,codec,comp_bytes,ctime_s,dtime_s,ok
+sealed,ai,wildchat_00.jsonl,10010537,bsc-e1,1402342,0.127567,0.101942,1
+sealed,ai,wildchat_00.jsonl,10010537,bsc-e2,1389050,0.169349,0.153128,1
+sealed,ai,wildchat_01.jsonl,10017364,bsc-e1,1354204,0.122686,0.097356,1
+sealed,ai,wildchat_01.jsonl,10017364,bsc-e2,1341430,0.165271,0.152493,1
+sealed,ai,wildchat_02.jsonl,10000060,bsc-e1,1391564,0.127785,0.100541,1
+sealed,ai,wildchat_02.jsonl,10000060,bsc-e2,1378852,0.167687,0.151516,1
+sealed,ai,wildchat_05.jsonl,10005588,bsc-e1,1371312,0.126223,0.099223,1
+sealed,ai,wildchat_05.jsonl,10005588,bsc-e2,1358190,0.168289,0.154022,1
+sealed,ai,wildchat_07.jsonl,10008911,bsc-e1,1410412,0.128450,0.098504,1
+sealed,ai,wildchat_07.jsonl,10008911,bsc-e2,1396720,0.168220,0.157556,1
+sealed,ai,wildchat_12.jsonl,10008825,bsc-e1,1404192,0.127970,0.100461,1
+sealed,ai,wildchat_12.jsonl,10008825,bsc-e2,1391114,0.170983,0.157363,1
+sealed,ai,wildchat_13.jsonl,10023449,bsc-e1,1395712,0.124333,0.095726,1
+sealed,ai,wildchat_13.jsonl,10023449,bsc-e2,1382240,0.166990,0.157308,1

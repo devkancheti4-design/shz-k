@@ -1,0 +1,2 @@
+  BDIV100, BDIV10, BMOD10 on all of [0, 255], and the decimal text of every byte value: 0 wrong
+PASS

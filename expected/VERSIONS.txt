@@ -1,0 +1,13 @@
+clang: Apple clang version 21.0.0 (clang-2100.1.1.101)
+macOS: 26.5.2 arm64
+zstd: *** Zstandard CLI (64-bit) v1.5.7, by Yann Collet ***
+xz: xz (XZ Utils) 5.8.4
+brotli: brotli 1.2.1
+bzip2: bzip2, a block-sorting file compressor.  Version 1.0.8, 13-Jul-2019.
+gzip: Apple gzip 479
+lz4: *** lz4 v1.10.0 64-bit multithread, by Yann Collet ***
+zpaq: zpaq v7.15 journaling archiver, compiled Aug 17 2016
+libbsc: commit 131f4403c54c66083a8e465a3a3179bd09dc871d (3.4.0)
+python 3.14.7 | pyarrow 24.0.0
+mlx 0.31.1 | mlx_lm 0.28.0
+

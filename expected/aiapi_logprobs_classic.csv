@@ -1,0 +1,11 @@
+split,category,file,bytes,codec,comp_bytes,ctime_s,dtime_s,ok
+sealed,logprobs,logprobs_00.jsonl,10022413,shz,1068766,0.365590,0.444898,1
+sealed,logprobs,logprobs_00.jsonl,10022413,zstd-3,1691797,0.014808,0.004370,1
+sealed,logprobs,logprobs_00.jsonl,10022413,zstd-19,1016995,2.584221,0.003041,1
+sealed,logprobs,logprobs_00.jsonl,10022413,xz-9e,980204,2.726950,0.036966,1
+sealed,logprobs,logprobs_00.jsonl,10022413,brotli-11,957492,10.614529,0.007393,1
+sealed,logprobs,logprobs_01.jsonl,10006996,shz,1067257,0.405848,0.473981,1
+sealed,logprobs,logprobs_01.jsonl,10006996,zstd-3,1689695,0.015057,0.004393,1
+sealed,logprobs,logprobs_01.jsonl,10006996,zstd-19,1015704,2.571942,0.003035,1
+sealed,logprobs,logprobs_01.jsonl,10006996,xz-9e,978968,2.731818,0.037066,1
+sealed,logprobs,logprobs_01.jsonl,10006996,brotli-11,958432,10.507849,0.007311,1

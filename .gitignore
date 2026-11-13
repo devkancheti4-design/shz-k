@@ -1,0 +1,16 @@
+# built or fetched locally by build.sh / fetch_data.sh / run.sh
+bin/
+third_party/
+corpus/wildchat/
+corpus/aiapi/
+corpus/loghub/
+data/wildchat/
+data/enwik8/
+data/enwik9/
+data/silesia/
+results/
+results_run_*.log
+report.md
+__pycache__/
+*.pyc
+.DS_Store

@@ -1,0 +1,37 @@
+  SPLIT     all 2^32 words                                 4294967296 inputs  0 wrong
+  TOP12     all 2^32 words                                 4294967296 inputs  0 wrong
+  CRCBIT    all 2^32 words                                 4294967296 inputs  0 wrong
+  SAMETOP   join Z8(v >>> 24), all 2^32 words              4294967296 inputs  0 wrong
+  P12       join MAX1(TOP12(s)), all 2^32 words            4294967296 inputs  0 wrong
+  Z8        all of [0, 255]                                       256 inputs  0 wrong
+  MAX1      all of [0, 4095]                                     4096 inputs  0 wrong
+  RATE      all of [0, 62]                                         63 inputs  0 wrong
+  NINC      all of [0, 62]                                         63 inputs  0 wrong
+  INC1      all p in [0, 2^22), R in [1, 6]                  25165824 inputs  0 wrong
+  DEC0      all p in [0, 2^22), R in [1, 6]                  25165824 inputs  0 wrong
+  HASH      all of [0, 2^30)                               1073741824 inputs  0 wrong
+  HASHF     all of [0, 2^28)                                268435456 inputs  0 wrong
+  BKT       all of [0, 32767]                                   32768 inputs  0 wrong
+  ISDIG     all of [0, 255]                                       256 inputs  0 wrong
+  ISUPPER   all of [0, 255]                                       256 inputs  0 wrong
+  ISLOWER   all of [0, 255]                                       256 inputs  0 wrong
+  ISUND     all of [0, 255]                                       256 inputs  0 wrong
+  ISSPACE   all of [0, 255]                                       256 inputs  0 wrong
+  ISTAB     all of [0, 255]                                       256 inputs  0 wrong
+  CLASS     join of the class lanes, all of [0, 255]              256 inputs  0 wrong
+  DSUM      all 200 digit triples                                 200 inputs  0 wrong
+  DDIF      all 200 digit triples                                 200 inputs  0 wrong
+  DADD      join DFIX(DSUM(x)) = digit | carry << 4               200 inputs  0 wrong
+  DSUB      join BFIX(DDIF(x)) = digit | borrow << 4              200 inputs  0 wrong
+  DFIX      all of [0, 19]                                         20 inputs  0 wrong
+  BFIX      all of [-10, 9]                                        20 inputs  0 wrong
+  DELTA     all d in [0, 4095], w in [0, 127]                  524288 inputs  0 wrong
+  WSTEP     all s in [-2047, 2047], e in [-4095, 4095]       33542145 inputs  0 wrong
+  CLLO      all of [-32768, 32767]                              65536 inputs  0 wrong
+  CLHI      all of [-2047, 32767]                               34815 inputs  0 wrong
+  CLAMP12   join CLHI(CLLO(v)), all of [-32768, 32767]          65536 inputs  0 wrong
+  WLO       all of [-2^18 - 2^13, 2^18 + 2^13]                 540673 inputs  0 wrong
+  WCLAMP    join WHI(WLO(w)), same range                       540673 inputs  0 wrong
+  WHI       all of [-2^18, 2^18 + 2^13]                        532481 inputs  0 wrong
+  HASH2     all of [0, 65535]                                   65536 inputs  0 wrong
+PASS: 0 wrong in all

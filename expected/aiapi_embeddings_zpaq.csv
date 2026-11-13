@@ -1,0 +1,3 @@
+split,category,file,bytes,codec,comp_bytes,ctime_s,dtime_s,ok
+sealed,embeddings,embeddings_00.jsonl,10001723,zpaq-m5,3170758,22.5583,21.9851,1
+sealed,embeddings,embeddings_01.jsonl,10004073,zpaq-m5,3170648,21.1576,21.8276,1

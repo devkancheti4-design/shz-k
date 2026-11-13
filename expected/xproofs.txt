@@ -1,0 +1,6 @@
+  XHM1      all 2^32 words                                   4294967296 inputs  0 wrong
+  XINC16    all p in [0, 65535], R in [1, 7]                     458752 inputs  0 wrong
+  XDEC16    all p in [0, 65535], R in [1, 7]                     458752 inputs  0 wrong
+  XSDELTA   all d in [-4095, 4095], w in [0, 127]               1048448 inputs  0 wrong
+  CLAMP12   join CLHI(CLLO(v)), all of [-2^18, 2^18]             524289 inputs  0 wrong
+PASS: 0 wrong in all

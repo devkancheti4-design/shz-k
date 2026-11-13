@@ -1,0 +1,11 @@
+split,category,file,bytes,codec,comp_bytes,ctime_s,dtime_s,ok
+sealed,embeddings,embeddings_00.jsonl,10001723,shz,3461473,1.029431,1.470347,1
+sealed,embeddings,embeddings_00.jsonl,10001723,zstd-3,4327979,0.046983,0.008582,1
+sealed,embeddings,embeddings_00.jsonl,10001723,zstd-19,3589382,4.599248,0.004768,1
+sealed,embeddings,embeddings_00.jsonl,10001723,xz-9e,3613784,4.812425,0.137872,1
+sealed,embeddings,embeddings_00.jsonl,10001723,brotli-11,3538731,13.615645,0.033161,1
+sealed,embeddings,embeddings_01.jsonl,10004073,shz,3461360,1.144373,1.460658,1
+sealed,embeddings,embeddings_01.jsonl,10004073,zstd-3,4327281,0.047173,0.008708,1
+sealed,embeddings,embeddings_01.jsonl,10004073,zstd-19,3588267,4.468498,0.004854,1
+sealed,embeddings,embeddings_01.jsonl,10004073,xz-9e,3614212,5.824051,0.142798,1
+sealed,embeddings,embeddings_01.jsonl,10004073,brotli-11,3605183,14.236505,0.033729,1

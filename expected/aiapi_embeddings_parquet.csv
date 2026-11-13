@@ -1,0 +1,7 @@
+split,category,file,bytes,codec,comp_bytes,ctime_s,dtime_s,ok
+sealed,embeddings,embeddings_00.jsonl,10001723,parquet-zstd3,2232782,0.6125,0.254,1
+sealed,embeddings,embeddings_00.jsonl,10001723,parquet-zstd19,2197769,0.1513,0.1862,1
+sealed,embeddings,embeddings_00.jsonl,10001723,parquet-zstd19-bss,1504185,0.1468,0.1805,1
+sealed,embeddings,embeddings_01.jsonl,10004073,parquet-zstd3,2231755,0.0788,0.1845,1
+sealed,embeddings,embeddings_01.jsonl,10004073,parquet-zstd19,2199319,0.1514,0.1813,1
+sealed,embeddings,embeddings_01.jsonl,10004073,parquet-zstd19-bss,1504028,0.1481,0.1814,1

@@ -1,0 +1,4 @@
+  AORD32    all 2^32 words  0 wrong
+  AUNORD32  all 2^32 words  0 wrong
+  UNORD32(ORD32(x)) == x on all 2^32 words: 0 wrong
+PASS: 0 wrong in all

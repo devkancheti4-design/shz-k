@@ -1,0 +1,5 @@
+split,category,file,bytes,codec,comp_bytes,ctime_s,dtime_s,ok
+sealed,embeddings,embeddings_00.jsonl,10001723,bsc-e1,3399872,0.227655,0.218767,1
+sealed,embeddings,embeddings_00.jsonl,10001723,bsc-e2,3374824,0.341769,0.354005,1
+sealed,embeddings,embeddings_01.jsonl,10004073,bsc-e1,3399628,0.227289,0.218318,1
+sealed,embeddings,embeddings_01.jsonl,10004073,bsc-e2,3374644,0.341243,0.349131,1

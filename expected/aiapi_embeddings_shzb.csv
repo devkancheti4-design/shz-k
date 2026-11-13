@@ -1,0 +1,9 @@
+split,category,file,bytes,codec,comp_bytes,ctime_s,dtime_s,ok
+sealed,embeddings,embeddings_00.jsonl,10001723,shzb-e1-fast,1457365,0.286020,0.489506,1
+sealed,embeddings,embeddings_00.jsonl,10001723,shzb-e2-fast,1457303,0.285178,0.488835,1
+sealed,embeddings,embeddings_00.jsonl,10001723,shzb-e1-max,1457365,0.284224,0.491043,1
+sealed,embeddings,embeddings_00.jsonl,10001723,shzb-e2-max,1457303,0.284773,0.496460,1
+sealed,embeddings,embeddings_01.jsonl,10004073,shzb-e1-fast,1456718,0.286959,0.493981,1
+sealed,embeddings,embeddings_01.jsonl,10004073,shzb-e2-fast,1456660,0.286704,0.494479,1
+sealed,embeddings,embeddings_01.jsonl,10004073,shzb-e1-max,1456718,0.286196,0.490424,1
+sealed,embeddings,embeddings_01.jsonl,10004073,shzb-e2-max,1456660,0.287369,0.494162,1

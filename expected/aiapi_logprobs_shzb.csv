@@ -1,0 +1,9 @@
+split,category,file,bytes,codec,comp_bytes,ctime_s,dtime_s,ok
+sealed,logprobs,logprobs_00.jsonl,10022413,shzb-e1-fast,438078,0.190864,0.188456,1
+sealed,logprobs,logprobs_00.jsonl,10022413,shzb-e2-fast,436226,0.195866,0.195550,1
+sealed,logprobs,logprobs_00.jsonl,10022413,shzb-e1-max,438078,0.190641,0.188377,1
+sealed,logprobs,logprobs_00.jsonl,10022413,shzb-e2-max,436226,0.195531,0.195810,1
+sealed,logprobs,logprobs_01.jsonl,10006996,shzb-e1-fast,437252,0.190494,0.187946,1
+sealed,logprobs,logprobs_01.jsonl,10006996,shzb-e2-fast,435416,0.194639,0.196949,1
+sealed,logprobs,logprobs_01.jsonl,10006996,shzb-e1-max,437252,0.190451,0.188026,1
+sealed,logprobs,logprobs_01.jsonl,10006996,shzb-e2-max,435416,0.195853,0.195286,1

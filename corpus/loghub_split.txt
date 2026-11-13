@@ -1,0 +1,3 @@
+seed 20261113 (random.Random.sample of the 16 sorted names, 6 for design)
+design: Android BGL Hadoop OpenStack Thunderbird Zookeeper
+sealed: Apache HDFS HPC HealthApp Linux Mac OpenSSH Proxifier Spark Windows
